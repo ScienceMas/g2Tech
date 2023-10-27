@@ -1,0 +1,14 @@
+.details > div {
+    position: relative;
+}
+
+.details > div::before {
+    content: '';
+    position: absolute;
+    right: -15px;
+    top: 50%;
+    height: 5px;
+    width: 5px;
+    border-radius: 2.5px;
+    background-color: black;
+}

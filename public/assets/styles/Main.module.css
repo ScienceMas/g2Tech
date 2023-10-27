@@ -1,0 +1,9 @@
+.SVG {
+    position: relative;
+    height: 32px;
+    transform: translateX(-50%) rotateY(180deg);
+    display: block;
+    width: calc(100% + 1.3px);
+    position: relative;
+    left: 50%;
+}

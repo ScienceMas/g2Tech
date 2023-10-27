@@ -1,0 +1,10 @@
+.tooltip::before {
+    content: '';
+    position: absolute;
+    bottom: -10px;
+    right: 33px;
+    height: 10px;
+    width: 15px;
+    clip-path: polygon(0% 0%, 50% 100%, 100% 0%);
+    background-color: white;
+}

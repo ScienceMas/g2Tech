@@ -1,0 +1,14 @@
+{
+    "variants": [
+        {"options": ["Steam", "Standard Edition", "Ukrainian", 4416000]}, 
+        {"options": ["Steam", "Standard Edition", "Region Argentina", 3893000]}, 
+        {"options": ["Steam", "Standard Edition", "Region Turkey", 4115000]}, 
+        {"options": ["Steam", "Vault Edition", "Ukrainian", 6256000]}, 
+        {"options": ["Steam", "Vault Edition", "Region Argentina", 5616500]}, 
+        {"options": ["Steam", "Vault Edition", "Region Turkey", 6796500]}, 
+        {"options": ["Battle Net", "Standard Edition", "Region Turkey", 4229000]}, 
+        {"options": ["Battle Net", "Standard Edition", "Europe USA IRAN", 4247000]}, 
+        {"options": ["Battle Net", "Vault Edition", "Region Turkey", 5881000]}, 
+        {"options": ["Battle Net", "Vault Edition", "Europe USA IRAN", 6115000]}
+    ] 
+}
